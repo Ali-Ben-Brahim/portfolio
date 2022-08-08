@@ -12,7 +12,7 @@ export default function mainpage() {
     <div>
     <h2>Hello, I'm Ali <br/><span>Developer</span></h2>
     <h3>Diplômé en Business Computing</h3>
-    <a href="#projects" className="main-btn">View my work</a>
+    <a href="#project" className="main-btn">View my work</a>
     <div className="social-icons">
         <a href="https://www.linkedin.com/in/ali-ben-brahim/" target="_blank" rel="noreferre"><FaLinkedin/></a>
         <a href="https://github.com/Ali-Ben-Brahim" target="_blank" rel="noreferre"><FaGithub/></a>
