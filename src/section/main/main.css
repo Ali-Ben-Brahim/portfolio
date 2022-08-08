@@ -85,7 +85,7 @@ section{
     .main{
         
             background-position: top right;
-            background-size:cover;
+            min-width: 60vh;
 
         }
     .main h2{
@@ -105,15 +105,21 @@ section{
                     
                     }
                     .main{
-                        min-width: 65vh;
+                        min-width: 55vh;
                     }
                     .main h3{
                         
                         margin-top: 3px;
                         
                     }
+                    .social-icons a{
+                        
+                        padding-right: 31px;
+                       
+                    }
               
                      }
+                   
 
 @media(max-width:368px){
    
@@ -121,7 +127,7 @@ section{
             font-size: 10px;
             }
             .main{
-                min-width: 55vh;
+                min-width: 50vh;
             }
             .main h3{
                 
