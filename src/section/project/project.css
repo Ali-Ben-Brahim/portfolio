@@ -58,3 +58,32 @@
 .more-details:hover{
     color: #0a49f6;
 }
+@media(max-width:1023px){
+    .title{
+        font-size: 1.8em;
+    }
+    section{
+        padding: 80px 20px;
+    }
+    .content{
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+}
+@media(max-width:641px){
+   
+    body{
+            font-size: 12px;
+            }
+      
+             }
+
+@media(max-width:368px){
+
+body{
+    font-size: 10px;
+    }
+
+     }

@@ -33,3 +33,30 @@ header{
 .navigation a:hover{
     color:#601cfc ;
 }
+@media(max-width:1023px){
+    header{
+        padding: 10px 20px;
+    }
+    .navigation a{
+        padding-left: 10px;
+    }
+    section{
+        padding: 80px 20px;
+    }
+
+}
+@media(max-width:641px){
+   
+    body{
+            font-size: 12px;
+            }
+      
+             }
+
+@media(max-width:368px){
+
+body{
+    font-size: 10px;
+    }
+
+     }
